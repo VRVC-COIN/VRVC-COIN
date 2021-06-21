@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @VRVC-COIN. VRV LLC owns VRVC-COIN. This coin is patent pending with utility (recycling + gaming)
+- 👋 Hi, I’m @VRVC-COIN. Our company VRV LLC owns VRVC-COIN. Our coin is unique because it is backed up by a patent pending business model. Our USPTO patent application number is 14/628,683.  We have gamified recycling. Our use case consists of recycling to clean the environment and gaming (mobile, pc, console) to gamify your recycling efforts.
+
+
 - 👀 I’m interested in cryptocurrency, gaming and recycling ...
 - 🌱 I’m currently learning erc20 and bep20 tokens ...
-- 💞️ I’m looking to collaborate on promoting our VRVC-COIN to people that are tired of rug pulls and pump/dump tokens ...
+- 💞️ I’m looking to collaborate on promoting our VRVC-COIN to people that are tired of hodl, rug pull, pump/dump
+-     redistribution and fud tokens.
+- 📫
+
 - 📫 How to reach me apple@voluntaryrefundvalue.com ...
 
 <!---
