@@ -7,7 +7,7 @@
 - 📫 We are updating our website and app so please be patient. www.vrvccoin.com
 
 - 📫 Read our white paper https://www.canva.com/design/DAEe9q1Gn0I/Jz_ZE5x962jRknISNu5L5w/view?utm_content=DAEe9q1Gn0I&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton ...
--
+
 - 📫 Read our road map ... https://www.canva.com/design/DAEhmUmnWfY/CxQXeHZhFXFWpx20tI8dog/view?utm_content=DAEhmUmnWfY&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
 
 - 📫 How to reach me apple@voluntaryrefundvalue.com ...
