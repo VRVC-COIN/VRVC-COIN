@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning erc20 and bep20 tokens ...
 - 💞️ I’m looking to collaborate on promoting our VRVC-COIN to people that are tired of hodl, rug pull, pump/dump
 -     redistribution and fud tokens.
-- 📫
-
+- 📫 We are updating our website and app so please be patient. www.vrvccoin.com
 - 📫 How to reach me apple@voluntaryrefundvalue.com ...
 
 <!---
