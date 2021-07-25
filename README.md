@@ -5,6 +5,9 @@
 - 🌱 I’m currently learning erc20 and bep20 tokens ...
 - 💞️ I’m looking to collaborate on promoting our VRVC-COIN to people that are tired of hodl, rug pull, pump/dump , redistribution and fud tokens.
 - 📫 We are updating our website and app so please be patient. www.vrvccoin.com
+-
+- 📫 Game console: In the future buy this console and we will run a poll on the game you want us to implement for the week.
+ https://www.aliexpress.com/item/1005002069717433.html?spm=a2g0o.store_pc_home.slider_2380775.1
 
 - 📫 Read our white paper https://www.canva.com/design/DAEe9q1Gn0I/Jz_ZE5x962jRknISNu5L5w/view?utm_content=DAEe9q1Gn0I&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton ...
 
